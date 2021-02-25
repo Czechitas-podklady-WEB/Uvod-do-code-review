@@ -54,7 +54,7 @@ Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete
 
    ![první komentář](./images/comment.png)
 
-1. Kolik řádků okomentujete je na vás.
+1. Kolik řádků okomentujete, je na vás.
 
    ![alt](./images/alt.png)
 
