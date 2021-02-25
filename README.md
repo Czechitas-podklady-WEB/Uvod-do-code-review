@@ -4,7 +4,7 @@
 
 Průběžně bude zadáno šest úkolů na doma. V prvních pěti si vytvoříte vlastní stránku s hrou Piškvorky. V šestém úkolu dáte dohromady v týmu malý přehled o vás a vašem závěrečném projektu.
 
-Jednotlivé domácí úkoly budou zadány postupně na konci některých lekcí nebo ve zprávě přes Slack. Kromě samotného zadání k vypracování se dozvíte i datum, do kdy je potřeba úkola vypracovat.
+Jednotlivé domácí úkoly budou zadány postupně na konci některých lekcí nebo ve zprávě přes Slack. Kromě samotného zadání k vypracování se dozvíte i datum, do kdy je potřeba úkol vypracovat.
 
 ## Piškvorky
 
