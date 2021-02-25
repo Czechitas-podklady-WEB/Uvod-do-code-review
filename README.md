@@ -2,7 +2,7 @@
 
 <div align="center" width="100%;"><br/><img src="./images/meme.jpg"><br/><br/></div>
 
-Průběžně bude zadáno šest úkolů na doma. V prvních pěti si vytvoříte vlastní stránku s hrou Piškvorky. V posledním dáte dohromady v týmu malý přehled o vás a vašem závěrečném projektu.
+Průběžně bude zadáno šest úkolů na doma. V prvních pěti si vytvoříte vlastní stránku s hrou Piškvorky. V šestém úkolu dáte dohromady v týmu malý přehled o vás a vašem závěrečném projektu.
 
 Jednotlivé domácí úkoly budou zadány postupně na konci některých lekcí nebo ve zprávě přes Slack. Kromě samotného zadání k vypracování se dozvíte i datum, do kdy je potřeba úkola vypracovat.
 
@@ -10,9 +10,13 @@ Jednotlivé domácí úkoly budou zadány postupně na konci některých lekcí 
 
 V rámci prvního úkolu ve svém GitHub účtu založíte nový veřejný repozitář. Práci s GitHubem si ukážeme na lekci Git 1. V tomto repozitáři budete řešit průběžně prvních pět úkolů.
 
-Piškvorkové úkoly mají tři fáze. V první vypracujete zadání. Typicky se bude jednat o psaní HTML, CSS a JavaScriptu. V druhé fázi si vyzkoušíte code review, zpětnou vazbu, ve které bude vaším úkolem si přečíst kód jiné účastnice, kterou vám náhodně přiřadíme. Na GitHubu do komentářů jí napíšete, co se vám v kódu líbí nebo na vás udělalo dojem, případně také, co se vám nezdá a co není srozumitelné. Review zakončíte nějakým stručným shrnujícím komentářem. V poslední fázi si projdete komentáře k vašemu kódu napsala jiná účastnice. GitHub vám bude posílat e-maily s oznámením. Odpovězte, kde to dává smysl, případně doupravte kód. Občas na komentář stačí reagovat pomocí emoji na znamení, že ho berete na vědomí. Pokud si s něčím nebudete vědět rady, vždycky se můžete ozvat na Slacku nebo v komentářích zmínit konkrétního kouče/lektora pomocí zavináče, aby mu/jí přišlo upozornění. Pokud po prvním kole komentářů a odpovědí zůstanou nějaké diskuze otevřené, můžete je volitelně dořešit. Typické review v praxi může probíhat i v několika kolech.
+Piškvorkové úkoly mají tři fáze. V první vypracujete zadání. Typicky se bude jednat o psaní HTML, CSS a JavaScriptu. V druhé fázi si vyzkoušíte code review, zpětnou vazbu, ve které bude vaším úkolem si přečíst kód jiné účastnice, kterou vám náhodně přiřadíme. Na GitHubu do komentářů jí napíšete, co se vám v kódu líbí nebo na vás udělalo dojem, případně také, co se vám nezdá a co není srozumitelné. Review zakončíte nějakým stručným shrnujícím komentářem.
 
-V týmech, v zaměstnání se code review na projektech dělá běžně. Předchází se tím chybám, víc očí víc vidí, ale také pomáhá udržovat přehledný kód, ve kterém se vyzná širší tým nebo někdo, kdo po vás bude práci přebírat. Zároveň pomáhá všem prohlubovat jejich znalosti, umět se o problémech bavit a objevovat nové způsoby řešení.
+V poslední fázi si projdete komentáře, které k vašemu kódu napsala jiná účastnice. GitHub vám bude posílat e-maily s oznámením. Odpovězte, kde to dává smysl, případně doupravte kód. Občas na komentář stačí reagovat pomocí emoji na znamení, že ho berete na vědomí.
+
+Pokud si s něčím nebudete vědět rady, vždy se můžete ozvat na Slacku nebo v komentářích zmínit konkrétního kouče/lektora pomocí zavináče, aby mu/jí přišlo upozornění. Pokud po prvním kole komentářů a odpovědí zůstanou nějaké diskuze otevřené, můžete je volitelně dořešit. Typické review v praxi může probíhat i v několika kolech.
+
+V týmech, v zaměstnání se code review na projektech dělá běžně. Předchází se tím chybám. Víc očí víc vidí, ale také pomáhá udržovat přehledný kód, ve kterém se pak vyzná širší tým nebo někdo, kdo po vás bude práci přebírat. Zároveň pomáhá všem prohlubovat jejich znalosti, umět se o problémech bavit a objevovat nové způsoby řešení.
 
 ## Microsite o projektu
 
@@ -22,13 +26,13 @@ Poslední úkol vypracujete v týmu, do nového repozitáře budete psát kód v
 
 Nástrojů a konvencí pro dobré review je spoustu. Některé postupy budou jiné na GitHubu, Gitlabu či Bitbucketu, další se budou lišit podle velikosti týmu a lokálních zvyklostí. Domluvíme se tedy proto, podle čeho se budeme řídit my.
 
-Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete psát obecné k jednotlivým commitům a konkrétní k upraveným řádkům. Pro review piškvorek postupujte takto:
+Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete psát obecné k jednotlivým commitům a nebo konkrétní přímo k upraveným řádkům. Pro review piškvorek postupujte takto:
 
 ### Napište review
 
 1. Otevřete si odkaz na repozitář účastnice, pro kterou děláte review.
 
-1. V sekci About najděte odkaz na GitHub pages, na kterém si prohlídněte, jak vypadá, jak se chová výsledná stránka.
+1. V sekci About najděte odkaz na GitHub pages, na kterém si prohlédněte, jak vypadá a jak se chová výsledná stránka.
 
    ![about](./images/about.png)
 
@@ -62,7 +66,7 @@ Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete
 
    ![alt](./images/bem.png)
 
-1. Na závěr dopiště do nejnovějšího commitu na jeho konec shnující zprávu, ze které bude poznat, že máte hotovo.
+1. Na závěr dopište do nejnovějšího commitu na jeho konec shnující zprávu, ze které bude poznat, že máte hotovo.
 
    ![alt](./images/summary.png)
 
@@ -84,7 +88,7 @@ Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete
 
 ### Něco navíc
 
-Společně s code review se po akademii setkáte i s dalšími souvisejícími pojmy, které můžete volitelně prozkoumat, pokud se chcete ponořit více do hloubky. Jejich znalost však pro vypracování úkolů výše není potřeba.
+Společně s code review se po akademii setkáte i s dalšími souvisejícími pojmy, které můžete volitelně prozkoumat, pokud se chcete do práce s Gitem a GitHubem ponořit více do hloubky. Jejich znalost však pro vypracování úkolů výše není potřeba.
 
 - Větve: umožňují rozdělanou práci v gitu více strukturovat.
 - Pull/merge requesty: průvodci začleněním větve do hlavního kódu. Seskupují diskuze o novém kódu na GitHubu, Gitlabu, … k sobě.
