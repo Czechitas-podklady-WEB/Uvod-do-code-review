@@ -72,7 +72,7 @@ Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete
 
 1. Pokud to dává smysl, můžete váš kód podle nich upravit a donahrát na GitHub v nových commitech.
 
-1. Na jednotlivé komentáře zareagujte. Někde si možná vystačíte s jednoduchým emoji 🙂. Jinde bude vhodné se trochu rozepsat.
+1. Na jednotlivé komentáře zareagujte. Někde si možná vystačíte s jednoduchým emoji 👍. Jinde bude vhodné se trochu rozepsat.
 
    ![reakce](./images/reactions.png)
 
