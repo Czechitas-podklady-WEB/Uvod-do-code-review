@@ -20,6 +20,66 @@ Poslední úkol vypracujete v týmu, do nového repozitáře budete psát kód v
 
 Nástrojů a konvencí pro dobré review je spoustu. Některé postupy budou jiné na GitHubu, Gitlabu či Bitbucketu, další se budou lišit podle velikosti týmu a lokálních zvyklostí. Domluvíme se tedy proto, podle čeho se budeme řídit my.
 
+Hlavním stavebním kamenem všech reviews jsou komentáře. Na GitHubu můžete psát obecné k jednotlivým commitům a konkrétní k upraveným řádkům. Pro review piškvorek postupujte takto:
+
+### Napište review
+
+1. Otevřete si odkaz na repozitář účastnice, pro kterou děláte review.
+
+1. V sekci About najděte odkaz na GitHub pages, na kterém si prohlídněte, jak vypadá, jak se chová výsledná stránka.
+
+   ![about](./images/about.png)
+
+1. Projděte si výsledný kód na GitHubu nebo ve vývojářských nástrojích prohlížeče.
+
+   ![GitHub soubory v repozitáři](./images/repository-files.png)
+
+   ![vývojářské nástroje](./images/devtools.png)
+
+1. Najděte commit a řádek, který chcete okomentovat.
+
+   - Projděte všechny commity.
+
+     ![všechny commity](./images/all-commits.png)
+
+   - Nebo najděte commit, ve kterém byl kus kódu upravený pomocí funkce Blame v detailu soboru na GitHubu.
+
+     ![blame](./images/blame.png)
+
+     ![blame detail](./images/blame-detail.png)
+
+1. Přidejte ke konkrétnímu řádku komentář, který popisuje, co navrhujete opravit, co vás překvapilo, tip pro příště, co se vám líbí.
+
+   ![přidat komentář](./images/add-comment.png)
+
+   ![první komentář](./images/comment.png)
+
+1. Kolik řádků okomentujete je na vás.
+
+   ![alt](./images/alt.png)
+
+   ![alt](./images/bem.png)
+
+1. Na závěr dopiště do nejnovějšího commitu na jeho konec shnující zprávu, ze které bude poznat, že máte hotovo.
+
+   ![alt](./images/summary.png)
+
+### Odpovězte na review
+
+1. Pokud někdo okomentuje váš kód, měl by vám přijít e-mail.
+
+1. Pročtěte si všechny zprávy, které dostanete.
+
+1. Pokud to dává smysl, můžete váš kód podle nich upravit a donahrát na GitHub v nových commitech.
+
+1. Na jednotlivé komentáře zareagujte. Někde si možná vystačíte s jednoduchým emoji 🙂. Jinde bude vhodné se trochu rozepsat.
+
+   ![reakce](./images/reactions.png)
+
+   ![odpověď](./images/response.png)
+
+   ![odpověď na shrnutí](./images/summary-response.png)
+
 ### Něco navíc
 
 Společně s code review se po akademii setkáte i s dalšími souvisejícími pojmy, které můžete volitelně prozkoumat, pokud se chcete ponořit více do hloubky. Jejich znalost však pro vypracování úkolů výše není potřeba.
